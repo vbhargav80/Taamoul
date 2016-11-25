@@ -1,0 +1,174 @@
+
+/* Class = "UILabel"; text = "bestmeditator"; ObjectID = "0Lf-Z0-nve"; */
+"0Lf-Z0-nve.text" = "bestmeditator";
+
+/* Class = "UIButton"; normalTitle = "SignIn"; ObjectID = "0Y2-e4-82U"; */
+"0Y2-e4-82U.normalTitle" = "SignIn";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "14H-H3-SDJ"; */
+"14H-H3-SDJ.text" = "Don't have an account?";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "269-t7-rxi"; */
+"269-t7-rxi.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2bv-71-ern"; */
+"2bv-71-ern.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Resend"; ObjectID = "2jp-x4-As3"; */
+"2jp-x4-As3.normalTitle" = "Resend";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "32N-LY-Ju6"; */
+"32N-LY-Ju6.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "456 Followers"; ObjectID = "3w3-0O-xLq"; */
+"3w3-0O-xLq.text" = "456 Followers";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "4Ci-vP-8VP"; */
+"4Ci-vP-8VP.text" = "Contact Us";
+
+/* Class = "UILabel"; text = "Awesome, Thanks!"; ObjectID = "5Uw-HZ-y59"; */
+"5Uw-HZ-y59.text" = "Awesome, Thanks!";
+
+/* Class = "UILabel"; text = "Get notified"; ObjectID = "6ho-0f-WZH"; */
+"6ho-0f-WZH.text" = "Get notified";
+
+/* Class = "UITextField"; placeholder = "Enter mobile number"; ObjectID = "6t9-iU-pDw"; */
+"6t9-iU-pDw.placeholder" = "Enter mobile number";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "6w5-5A-sDj"; */
+"6w5-5A-sDj.normalTitle" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "9KM-d0-88r"; */
+"9KM-d0-88r.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Confirm password"; ObjectID = "AQM-Ay-cOZ"; */
+"AQM-Ay-cOZ.text" = "Confirm password";
+
+/* Class = "UILabel"; text = "85 Comments"; ObjectID = "CfY-qC-Snt"; */
+"CfY-qC-Snt.text" = "85 Comments";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "E1z-AD-cRl"; */
+"E1z-AD-cRl.text" = "Category";
+
+/* Class = "UITextField"; placeholder = "Enter password"; ObjectID = "ERW-3G-itA"; */
+"ERW-3G-itA.placeholder" = "Enter password";
+
+/* Class = "UILabel"; text = "Your full name"; ObjectID = "F29-1l-fwc"; */
+"F29-1l-fwc.text" = "Your full name";
+
+/* Class = "UILabel"; text = "Your e-mail"; ObjectID = "FVb-5h-zR2"; */
+"FVb-5h-zR2.text" = "Your e-mail";
+
+/* Class = "UILabel"; text = "786 Followers"; ObjectID = "GAb-dc-yXs"; */
+"GAb-dc-yXs.text" = "786 Followers";
+
+/* Class = "UITextField"; placeholder = "sample@test.com"; ObjectID = "GBc-0e-A95"; */
+"GBc-0e-A95.placeholder" = "sample@test.com";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "GHl-sd-4KS"; */
+"GHl-sd-4KS.placeholder" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "I75-yC-dw3"; */
+"I75-yC-dw3.normalTitle" = "Sign Up";
+
+/* Class = "UITextField"; placeholder = "Enter password"; ObjectID = "IgA-Ex-zEn"; */
+"IgA-Ex-zEn.placeholder" = "Enter password";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "JsC-9K-Nte"; */
+"JsC-9K-Nte.text" = "About";
+
+/* Class = "UIButton"; normalTitle = "SignIn"; ObjectID = "LTg-gP-9Ar"; */
+"LTg-gP-9Ar.normalTitle" = "SignIn";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "MAn-fh-Fd2"; */
+"MAn-fh-Fd2.text" = "Sign Up";
+
+/* Class = "UILabel"; text = "Mobile number"; ObjectID = "MVs-06-l4m"; */
+"MVs-06-l4m.text" = "Mobile number";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "PSe-IU-N2w"; */
+"PSe-IU-N2w.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "Qqx-CY-UKW"; */
+"Qqx-CY-UKW.text" = "About";
+
+/* Class = "UILabel"; text = "15 Likes"; ObjectID = "ToM-Cm-3re"; */
+"ToM-Cm-3re.text" = "15 Likes";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simly dummy text of the printing and type testing."; ObjectID = "Ukl-yX-jnK"; */
+"Ukl-yX-jnK.text" = "Lorem Ipsum is simly dummy text of the printing and type testing.";
+
+/* Class = "UITextField"; placeholder = "Enter username"; ObjectID = "WfG-ot-njt"; */
+"WfG-ot-njt.placeholder" = "Enter username";
+
+/* Class = "UILabel"; text = "Email address"; ObjectID = "Xj5-QB-NxB"; */
+"Xj5-QB-NxB.text" = "Email address";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XzN-84-Cpo"; */
+"XzN-84-Cpo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Yvp-mo-DwF"; */
+"Yvp-mo-DwF.text" = "Label";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "cjH-GW-kWq"; */
+"cjH-GW-kWq.text" = "Username";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cmZ-xG-MlM"; */
+"cmZ-xG-MlM.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Connect"; ObjectID = "dH6-tk-of9"; */
+"dH6-tk-of9.normalTitle" = "Connect";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. "; ObjectID = "enu-eL-Qyc"; */
+"enu-eL-Qyc.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ";
+
+/* Class = "UITextField"; placeholder = "Email id"; ObjectID = "fJT-t2-SrR"; */
+"fJT-t2-SrR.placeholder" = "Email id";
+
+/* Class = "UILabel"; text = "We'd like to remind you about upcoming courses."; ObjectID = "h6w-Cq-cYu"; */
+"h6w-Cq-cYu.text" = "We'd like to remind you about upcoming courses.";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "hib-j8-TLx"; */
+"hib-j8-TLx.text" = "Already have an account?";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "hvb-eA-URZ"; */
+"hvb-eA-URZ.placeholder" = "Confirm password";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "i6w-vh-KEo"; */
+"i6w-vh-KEo.text" = "Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jKz-6S-VyE"; */
+"jKz-6S-VyE.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter email address"; ObjectID = "mFT-je-wGj"; */
+"mFT-je-wGj.placeholder" = "Enter email address";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "oAX-Ix-QiO"; */
+"oAX-Ix-QiO.text" = "Already have an account?";
+
+/* Class = "UILabel"; text = "Meditations"; ObjectID = "p7o-KD-Uhw"; */
+"p7o-KD-Uhw.text" = "Meditations";
+
+/* Class = "UILabel"; text = "We've sent confirmation code to your email."; ObjectID = "pmV-nt-zbr"; */
+"pmV-nt-zbr.text" = "We've sent confirmation code to your email.";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "pqM-o1-Xfl"; */
+"pqM-o1-Xfl.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "qyC-84-obG"; */
+"qyC-84-obG.text" = "Profile";
+
+/* Class = "UILabel"; text = "Please check your inbox."; ObjectID = "uel-Zz-qhW"; */
+"uel-Zz-qhW.text" = "Please check your inbox.";
+
+/* Class = "UILabel"; text = "Shoot your comments"; ObjectID = "vgI-ki-xjx"; */
+"vgI-ki-xjx.text" = "Shoot your comments";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "vvG-69-jup"; */
+"vvG-69-jup.text" = "Username";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "xmn-3q-45V"; */
+"xmn-3q-45V.text" = "Settings";
+
+/* Class = "UILabel"; text = "Enter Code"; ObjectID = "zpz-ie-NLF"; */
+"zpz-ie-NLF.text" = "Enter Code";

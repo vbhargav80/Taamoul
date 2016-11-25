@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  MeditationTamoul
+
+  Created by ALWAYSWANNAFLY on 9/25/16.
+  Copyright © 2016 AnilKumar Koya. All rights reserved.
+*/
+
+"app_name" = "Taamoul";
+"action_settings" = "Settings";
+"title_activity_splash" = "SplashActivity";
+"title_activity_signin" = "SigninActivity";
+
+"uname"="اسم المستخدم";
+"hint_uname"="ادخل اسم المستخدم";
+"ph"="رقم الهاتف المحمول";
+"hint_ph"="أدخل رقم الهاتف";
+"pwd"="كلمه السر";
+"hint_pwd"="أدخل كلمة المرور";
+"hint_cpwd"="تأكيد كلمة المرور";
+"email"="لبريد الإلكتروني";
+"hint_email"="أدخل عنوان البريد الالكتروني";
+"ur_comments"="Shoot your comments";
+"ur_fname"="أدخل الاسم الكامل";
+"ur_email"="أدخل عنوان البريد الالكتروني";
+"hint_comments"="Enter your comments";
+"hint_ur_fname"="أدخل الاسم الكامل";
+"hint_ur_email"="أدخل عنوان البريد الالكتروني";
+"signin"="تسجيل الدخول ";
+
+"no_account" = "Don't have an account?";
+"have_account"="هل لديك حساب؟";
+"signup"="سجل";
+"next"="التالى";
+"send"="Send";
+"get_notified"="الحصول على إخطار";
+"title_activity_sign_up"="SignUpActivity";
+"title_activity_signup_confirm"="SignupConfirmActivity";
+"awesome_thanks"="رائع شكرا!";
+"entercode"="ادخل الرمز";
+"resend"="إعادة إرسال";
+
+"nav_item_about"="عن التأمل";
+"nav_item_medit"="التأملات";
+"nav_item_courses"="التدريب";
+"nav_item_notif"="الإشعارات";
+"nav_item_contactus"="إتصل بنا";
+"nav_item_mytracks"="التأملات";
+"nav_item_privacy"="سياسة الخصوصية";
+
+"title_medit"="Meditations";
+"title_courses"="Courses";
+"title_notif"="Settings";
+"title_about"="About";
+"title_contactus"="Contact Us";
+
+
+"drawer_open"="Open";
+"drawer_close"="Close";
+"about"="about";
+"confirm_code_msg"="we have sent the confirmation code to your email.\n please check your inbox";
+"dont_have_acount"="لم يكن لديك حساب؟";
